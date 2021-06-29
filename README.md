@@ -11,4 +11,6 @@ Build OpenWrt using GitHub Actions
 ## Info
 For Xiaomi Redmi AC2100
 
-Lean's OpenWrt + Kenzok8's openwrt-packages + Kenzok8's small-packages
+[Lean's OpenWrt](https://github.com/coolsnowwolf/lede) + [Kenzok8's openwrt-packages](https://github.com/kenzok8/openwrt-packages) + [Kenzok8's small-packages](https://github.com/kenzok8/small)
+
+
